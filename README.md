@@ -7,6 +7,13 @@ Ziel des Projekts ist es, ein modernes System zu schaffen, welches Bestände, La
 
 ---
 
+## To-Do
+- Filter-Logik im Frontend optimieren
+- Frontend optimieren
+- Fehlerbehandlung und Validierung erweitern
+
+---
+
 ## RailStock Übersicht
 
 Dieses Repository dient als **zentrale Übersicht** für das gesamte RailStock-Projekt.  
