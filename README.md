@@ -5,6 +5,19 @@ Ziel des Projekts ist es, ein modernes System zu schaffen, welches Bestände, La
 
 ---
 
+## RailStock Übersicht
+
+Dieses Repository dient als **zentrale Übersicht** für das gesamte RailStock-Projekt.  
+Es enthält keine eigenen Funktionen, sondern verweist auf die beiden Haupt-Repositories:
+
+- **Backend:** [RailStock Backend](https://github.com/ImeschNico/RailStock-Lagerbewirtschaftungssoftware-Backend)  
+  Enthält das REST-API-Backend mit H2-Datenbank (lokal persistent) und allen Endpoints für Lokomotiven, Lagerplätze und Bestände.
+
+- **Frontend:** [RailStock Frontend](https://github.com/ImeschNico/RailStock-Lagerbewirtschaftungssoftware-Frontend)  
+  Enthält die Benutzeroberfläche (React + Vite) und kommuniziert über die REST-API mit dem Backend.
+
+---
+
 ## Über das Projekt
 
 Die Idee zu **RailStock** entstand im privaten Umfeld. 
