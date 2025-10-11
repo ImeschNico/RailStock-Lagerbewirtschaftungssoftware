@@ -1,5 +1,7 @@
 # RailStock-Lagerbewirtschaftungssoftware
 
+**Status:** Work in Progress
+
 RailStock ist eine eigenentwickelte Lagerbewirtschaftungssoftware zur Verwaltung und Organisation von Modelleisenbahnen.
 Ziel des Projekts ist es, ein modernes System zu schaffen, welches Bestände, Lagerplätze und Modelleisenbahnen effizient verwaltet. 
 
