@@ -7,9 +7,14 @@ Ziel des Projekts ist es, ein modernes System zu schaffen, welches Bestände, La
 
 **Status:** Work in Progress
 
+## Aktueller Stand
+- Frontend und Backend sind funktionstüchtig.
+- Erstes .jar erstellt, um den ersten Test mit dem Bekannten vor Ort durchzuführen.
+- Bereit für ersten Test durch Bekannten, um zu sehen ob es für ihn bisher alle Funktionen erfüllt.
+  
 ## To-Do
-- Filter-Logik im Frontend optimieren
-- Frontend optimieren
+- Style im Frontend(Filter) anpassen
+- .jar optimieren, damit Browser automatisch mit localhost öffnet und beim schliessen das Backend schliesst.
 - Fehlerbehandlung und Validierung erweitern
 
 ---
